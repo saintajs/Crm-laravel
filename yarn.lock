@@ -697,15 +697,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jsonforms/core@npm:^3.5.1":
-  version: 3.5.1
-  resolution: "@jsonforms/core@npm:3.5.1"
+"@jsonforms/core@npm:^3.8.0":
+  version: 3.8.0
+  resolution: "@jsonforms/core@npm:3.8.0"
   dependencies:
     "@types/json-schema": "npm:^7.0.3"
-    ajv: "npm:^8.6.1"
+    ajv: "npm:^8.18.0"
     ajv-formats: "npm:^2.1.0"
     lodash: "npm:^4.17.21"
-  checksum: 10c0/61ee662004033ef5d31aeea0fd44273fb3fa2d9ee40c750c45a017bac35207d3f45acca11d80f134d3cd3c4663b332c08309b374b858a036d38f64b66ea4d336
+  checksum: 10c0/918fdd5ba43ac545002d248bf77509679da511799d1dbd0e5480e34efc39623ebcd492ec96afe1358885a21be03f1999e4065697ccb3ffe32d3f99af746f8031
   languageName: node
   linkType: hard
 
@@ -2190,7 +2190,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@openremote/or-json-forms@workspace:ui/component/or-json-forms"
   dependencies:
-    "@jsonforms/core": "npm:^3.5.1"
+    "@jsonforms/core": "npm:^3.8.0"
     "@openremote/core": "workspace:*"
     "@openremote/or-components": "workspace:*"
     "@openremote/or-element": "workspace:*"
@@ -5180,7 +5180,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ajv@npm:^8.0.0, ajv@npm:^8.20.0, ajv@npm:^8.6.1, ajv@npm:^8.9.0":
+"ajv@npm:^8.0.0, ajv@npm:^8.18.0, ajv@npm:^8.20.0, ajv@npm:^8.9.0":
   version: 8.20.0
   resolution: "ajv@npm:8.20.0"
   dependencies:
